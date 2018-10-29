@@ -1,0 +1,3 @@
+cmd: "php artisan serve"
+args:
+  - "& npm run watch"
